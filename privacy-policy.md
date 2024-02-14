@@ -8,7 +8,7 @@
 <p>Only Bot keeps users' personal information confidential and does not share, sell, or rent it to third parties.</p>
 
 <h4>Children's Privacy</h4>
-<p>Only Bot does not knowingly collect personal information from children under the age of 13. If you are under the age of 13, you must obtain permission from your parent or guardian before using Only Bot.</p>
+<p>Only Bot does not knowingly collect personal information from children under the age of 18. If you are under the age of 18, you must obtain permission from your parent or guardian before using Only Bot.</p>
 
 <h4>Changes</h4>
 <p>This privacy policy may be updated following any changes to Only Bot's applications. These changes may occur without notice to the user, so it is important to review the privacy policy regularly.
