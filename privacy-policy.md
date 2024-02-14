@@ -1,5 +1,5 @@
 <h3>Only Bot Privacy Policy</h3>
-<p>Only Bot prioritizes the privacy of our users. This privacy policy outlines how Aiko Bot collects, uses, discloses, and protects the personal information of our users.</p>
+<p>Only Bot prioritizes the privacy of our users. This privacy policy outlines how Only Bot collects, uses, discloses, and protects the personal information of our users.</p>
 
 <h4>Collection and Use of Personal Information</h4>
 <p>Only Bot does not knowingly collect personal information from users. However, Only Bot may record user interactions on its servers, which may be used to track user activity on servers, perform moderation tasks, and support the leveling system.</p>
