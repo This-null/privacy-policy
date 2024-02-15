@@ -1,17 +1,24 @@
-<h3>Only Bot Privacy Policy</h3>
-<p>Only Bot prioritizes the privacy of our users. This privacy policy outlines how Only Bot collects, uses, discloses, and protects the personal information of our users.</p>
+Privacy Policy
 
-<h4>Collection and Use of Personal Information</h4>
-<p>Only Bot does not knowingly collect personal information from users. However, Only Bot may record user interactions on its servers, which may be used to track user activity on servers, perform moderation tasks, and support the leveling system.</p>
+Usage of Data
+The bot may use stored data, as defined below, for different features including but not limited to: Welcoming joining users (when enabled) and command handling.
+No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.
 
-<h4>Privacy Protection</h4>
-<p>Only Bot keeps users' personal information confidential and does not share, sell, or rent it to third parties.</p>
+Updating Data
+The data may be updated when using specific features of the bot.
+Such updates of data often requires the input of a user, including data that can be seen as identifiable and sensitive, such as text messages. This data is only kept in the database and only used for its intended purpose.
 
-<h4>Children's Privacy</h4>
-<p>Only Bot does not knowingly collect personal information from children under the age of 18. If you are under the age of 18, you must obtain permission from your parent or guardian before using Only Bot.</p>
+Temporarely stored Information
+The Bot may keep the stored information in an internal cacheing mechanic for a certain amount of time to reduce requests to its database.
+After a specified time period will the cached data be discared and only re-aquired when needed.
 
-<h4>Changes</h4>
-<p>This privacy policy may be updated following any changes to Only Bot's applications. These changes may occur without notice to the user, so it is important to review the privacy policy regularly.
-By accepting this privacy policy, you consent to the use of Only Bot. If you do not agree to this policy, please refrain from using Only Bot.</p>
+Data may be dropped from cache pre-maturely through actions such as removing the bot from the Server.
 
-<h5>Last updated: [02.15.2024]</h5>
+Removal of Data
+Automatic removal
+Stored Data can be removed automatically through means of removing the bot from a Server. This can be achieved by using the moderation features provided by Discord.
+Re-adding the bot back to the server will store data again, as described in the Stored Information section of this policy.
+
+Manual removal
+Manual removal of the data can be requested through email at info@skydev.com.tr.
+For security reasons will we ask you to provide us with proof of ownership of the server, that you wish the data to be removed of. Only a server owner may request manual removal of data and requesting it will result in the bot being removed from the server, if still present on it.
